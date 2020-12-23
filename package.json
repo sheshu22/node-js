@@ -1,0 +1,19 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "My Node JS practice.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheshu22/node-js.git"
+  },
+  "author": "Sheshasena Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheshu22/node-js/issues"
+  },
+  "homepage": "https://github.com/sheshu22/node-js#readme"
+}
