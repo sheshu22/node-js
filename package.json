@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sheshu22/node-js/issues"
   },
-  "homepage": "https://github.com/sheshu22/node-js#readme"
+  "homepage": "https://github.com/sheshu22/node-js#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
 }
